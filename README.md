@@ -1,4 +1,4 @@
-<center><h1>Dotnet and react practices</h1></center>
+<center><h1>Dotnet and react Practices</h1></center>
 
 This code is generated in purpose of self learning and practical point of view for below course.
 
